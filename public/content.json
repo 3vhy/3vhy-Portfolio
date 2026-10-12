@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "title": "3vhy — Minecraft Staff Portfolio",
+    "description": "Minecraft staff member across 14 servers, from Helper to Admin and Owner."
+  },
+  "theme": {
+    "sand": "#efe3b8",
+    "sandDark": "#dccb92",
+    "paper": "#fbf5e1",
+    "shell": "#3f6b34",
+    "scute": "#6a9a45",
+    "turtle": "#9cc46b",
+    "sea": "#3e9db0",
+    "seaDeep": "#22647a",
+    "egg": "#f3eed7",
+    "wood": "#8b5a2b",
+    "ink": "#1d2b22",
+    "muted": "#5d5a44",
+    "headingFont": "Pixelify Sans",
+    "bodyFont": "Monocraft",
+    "bodySize": 16,
+    "texture": true,
+    "walker": true
+  },
+  "profile": {
+    "name": "3vhy",
+    "tagline": "Minecraft staff on 14 servers so far, from Helper all the way to Owner.",
+    "status": "Staffing on 3 servers right now",
+    "showStatus": true,
+    "discordUsername": "3vhy",
+    "discordId": "629533115496529923",
+    "primaryButton": "See my servers",
+    "secondaryButton": "Message on Discord"
+  },
+  "about": "I'm **3vhy**. I've been on staff teams across 14 Minecraft servers, starting out as a Helper and working my way up through Mod, Sr. Mod and Admin.\n\nRight now I own **SoulVanilla**, moderate at **BreezeVanilla** and help out at **CrystalRoyale**.",
+  "sections": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "stats",
+      "visible": true
+    },
+    {
+      "id": "about",
+      "visible": true,
+      "title": "About me",
+      "subtitle": "",
+      "navLabel": "About",
+      "icon": "turtle"
+    },
+    {
+      "id": "categories",
+      "visible": true
+    },
+    {
+      "id": "skills",
+      "visible": true,
+      "title": "Skills",
+      "subtitle": "What I bring to a staff team.",
+      "navLabel": "Skills",
+      "icon": "scute"
+    },
+    {
+      "id": "contact",
+      "visible": true,
+      "title": "Message in a bottle",
+      "subtitle": "",
+      "navLabel": "Contact",
+      "icon": "bottle"
+    }
+  ],
+  "stats": [
+    {
+      "label": "servers staffed",
+      "value": "{servers}",
+      "icon": "scute"
+    },
+    {
+      "label": "current roles",
+      "value": "{current}",
+      "icon": "turtle"
+    },
+    {
+      "label": "past roles",
+      "value": "{past}",
+      "icon": "egg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "staff",
+      "title": "Staff",
+      "navLabel": "Staff",
+      "subtitle": "Every server I've been on staff for.",
+      "currentTitle": "Right now",
+      "pastTitle": "Previous servers",
+      "icon": "scute"
+    }
+  ],
+  "experience": [
+    {
+      "id": "crystalroyale",
+      "server": "CrystalRoyale",
+      "address": "",
+      "role": "Helper",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "current",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "soulvanilla",
+      "server": "SoulVanilla",
+      "address": "",
+      "role": "Owner",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "current",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "breezevanilla",
+      "server": "BreezeVanilla",
+      "address": "",
+      "role": "Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "current",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "frostsmp",
+      "server": "FrostSMP",
+      "address": "",
+      "role": "Sr. Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "bonkmc",
+      "server": "BonkMC",
+      "address": "",
+      "role": "Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "vincentvanilla",
+      "server": "VincentVanilla",
+      "address": "",
+      "role": "Helper",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "mcdiscover",
+      "server": "McDiscover",
+      "address": "",
+      "role": "Admin",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "berrymc",
+      "server": "BerryMC",
+      "address": "",
+      "role": "Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "nightvanilla",
+      "server": "NightVanilla",
+      "address": "",
+      "role": "Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "monkeyvanilla",
+      "server": "MonkeyVanilla",
+      "address": "",
+      "role": "Media Manager & Staff Manager",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "Discontinued",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "turtlesmp",
+      "server": "TurtleSMP",
+      "address": "",
+      "role": "Sr. Mod",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "frogdupe",
+      "server": "FrogDupe",
+      "address": "",
+      "role": "Helper",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "starvanilla",
+      "server": "StarVanilla",
+      "address": "",
+      "role": "Admin",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    },
+    {
+      "id": "fruitvanilla",
+      "server": "FruitVanilla",
+      "address": "",
+      "role": "Admin",
+      "members": 0,
+      "membersPlus": false,
+      "category": "staff",
+      "status": "past",
+      "note": "",
+      "period": "",
+      "description": "",
+      "icon": "",
+      "iconUrl": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Moderation",
+      "desc": "Mod and Sr. Mod on seven servers.",
+      "level": 5,
+      "icon": "shield"
+    },
+    {
+      "name": "Administration",
+      "desc": "Admin on McDiscover, StarVanilla and FruitVanilla.",
+      "level": 4,
+      "icon": "gear"
+    },
+    {
+      "name": "Running a server",
+      "desc": "Owner of SoulVanilla.",
+      "level": 4,
+      "icon": "crown"
+    },
+    {
+      "name": "Player support",
+      "desc": "Helper on three servers.",
+      "level": 4,
+      "icon": "chat"
+    },
+    {
+      "name": "Staff & media management",
+      "desc": "MM & SM at MonkeyVanilla.",
+      "level": 3,
+      "icon": "book"
+    }
+  ],
+  "contact": {
+    "text": "Want me on your staff team? Send me a message on Discord.",
+    "links": [
+      {
+        "label": "Discord profile",
+        "url": "https://discord.com/users/629533115496529923"
+      }
+    ]
+  },
+  "footer": "© 2026 3vhy · Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft."
+}
